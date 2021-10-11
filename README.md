@@ -5,7 +5,8 @@ A demo from [my work](https://codepen.io/natsunoyoru/pen/jKxBxV) created 3 years
 ## Get Started
 ```
 cd simple-markdown-viewer
-npm start```
+npm start
+```
 
 ## TODOs
 - Reconstruct the code, and delete redundant code
